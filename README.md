@@ -17,6 +17,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-9072f6?style=flat&logo=css3&logoColor=white)
 
+### Github Activity
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Raventhatfly&include_all_commits=true&count_private-true&custom_title=Raventhatfly&layout=compact'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
