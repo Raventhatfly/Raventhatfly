@@ -15,9 +15,12 @@
 
 ### Skills
 
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![C]()
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-47385?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-f1599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-9072f6?style=flat&logo=css3&logoColor=white)
 <!--
 **Raventhatfly/Raventhatfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
