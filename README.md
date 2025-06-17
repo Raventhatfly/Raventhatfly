@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign
+- 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign and incoming CSE graduate student of Harvard University.
 - 🌱 I’m currently learning Machine Learning and Embedded Systems
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
