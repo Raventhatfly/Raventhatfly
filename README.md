@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently studying in Zhejiang University and University of Illnois Urbana-Champaign and incoming CSE graduate student of Harvard University.
-- 🌱 I’m currently learning Machine Learning and Embedded Systems
+- 🔭 I’m currently computational science and engineering at Harvard
+- 🌱 I’m currently learning Machine Learning and Robotics
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about anything! -->
